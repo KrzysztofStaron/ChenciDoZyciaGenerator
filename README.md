@@ -9,14 +9,10 @@ O to wpełni darmowy generator chęci do życia
 ```
   Nie działa
 ```
-*
-  Dzk już jadłem
-*
+* Dzk już jadłem
 ```
   Dlaczego takie wspaniałe narzędzie jest darmowe?
 ```
-*
-  Bo tak
-*
+* Bo tak
 
 
