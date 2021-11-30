@@ -13,6 +13,6 @@ O to wpełni darmowy generator chęci do życia
 > Nasza firma chce walczyć z problemami psychicznymi, co za tym idzie nalezy udostępniać takie narzędzia za darmo.
 
 ### TO DO
-- [] Bigos
-- [] Zmiemniaki
+- [ ] Bigos
+- [ ] Zmiemniaki
 - [x] Doprowadzenie do upadku komunizmu na terenie RP
