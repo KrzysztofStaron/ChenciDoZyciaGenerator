@@ -4,3 +4,9 @@ O to wpełni darmowy generator chęci do życia
 ```
 
 ***btw* smutno mi troche**
+
+**FAQ**
+```
+  Nie działa
+```
+  Dzk już jadłem
